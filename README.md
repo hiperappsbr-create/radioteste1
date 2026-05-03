@@ -1,1 +1,1 @@
-https://radio.saopaulo01.com.br:10766/stream
+https://server22.srvsh.com.br:7048/stream
